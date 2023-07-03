@@ -1,7 +1,7 @@
 # plot_csv_fuzzymodel_py
 Pythonでファジィモデルの結果（csvファイル）をプロットする．
 
-実装用に使用したVisual Studio Codeのバージョン情報はこちら：
+実装に使用したVisual Studio Codeのバージョン情報はこちら：
 
 >Version: 1.79.2 (user setup)
 >
